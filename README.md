@@ -1,0 +1,2 @@
+# codecolor
+Moodle highlight plugin
